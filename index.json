@@ -1572,6 +1572,46 @@
       ],
       "added": "2026-02-12",
       "updated": "2026-02-12"
+    },
+    {
+      "name": "wc2_sapper",
+      "display_name": "WC2 Goblin Sappers",
+      "version": "1.0.0",
+      "description": "The shrill sounds of goblin sappers from Warcraft II",
+      "author": {
+        "name": "anwilk",
+        "github": "anwilk"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 12,
+      "total_size_bytes": 300000,
+      "source_repo": "anwilk/openpeon-wc2_sapper",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "0c4f32f3f7fb771e087bba50ad60d0f6ba2c2d4219e52b7e7664ba8b998f9434",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts"
+      ],
+      "preview_sounds": [
+        "ready.wav",
+        "beautiful.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
     }
   ]
 }
